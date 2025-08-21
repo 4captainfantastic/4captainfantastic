@@ -1,5 +1,9 @@
-## Hi there 👋
-
+# 👋 Hi, I’m Michae
+Welcome to my GitHub profile! 🚀
+## 🌟 About Me
+- 💻 I enjoy working with Linux and open-source tools
+---
+✨ Thanks for stopping by!
 <!--
 **4captainfantastic/4captainfantastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
