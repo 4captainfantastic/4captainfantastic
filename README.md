@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Michae
+# 👋 Hi, I’m Michael
 Welcome to my GitHub profile! 🚀
 ## 🌟 About Me
 - 💻 I enjoy working with Linux and open-source tools
